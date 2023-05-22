@@ -1,1 +1,1 @@
-# C
+Mainly exersises from university
