@@ -3,8 +3,8 @@
 #include <string.h>
 
 struct IceCream {
-    char code[4]; // Increased the size to accommodate null terminator
-    char name[21]; // Increased the size to accommodate null terminator
+    char code[4]; 
+    char name[21]; 
     int weight;
     float price;
 };
